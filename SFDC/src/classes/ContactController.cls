@@ -5,6 +5,7 @@ public with sharing class ContactController {
                 [SELECT Id, Name, Phone, Email FROM Contact];
         //Add isAccessible() check
         // For Git testing
+        // Add comment for test2
         return contacts;
     }
 }
