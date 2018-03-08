@@ -6,6 +6,9 @@ public with sharing class ContactController {
         //Add isAccessible() check
         // For Git testing
         // Add comment for test2
+		
+		
+		
         return contacts;
     }
 }
